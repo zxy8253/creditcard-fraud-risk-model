@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# virtual environment
+venv/
+.env/
+STAT415_venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# large outputs
+*.log
